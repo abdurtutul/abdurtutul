@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=480&lines=Hello+there+Explorer!+%F0%9F%91%8B;<+----This+is+Tutul----+>;🛠️+Debugging+Code......;🚀+Chasing+Quality+with+Tests;✅+Bug-Free+is+the+Goal!" alt="Typing SVG" />
 </h1>
 
-<img align="right" alt="Rokect" width="70" src="https://github.com/abdurtutul/abdurtutul/blob/main/profile_asset/Rocket.gif">
+<img align="right" alt="Coder Pikachu" width="70" src="https://github.com/user-attachments/assets/13e7f021-6ef8-4cde-ac4b-c57e5de409a3">
 
 <h4 align="center">You are welcome to explore my GitHub to check out projects, QA works, and tools I've used. I am passionate about Software Quality Assurance and continuously improving my skills.</h4><br>
 
@@ -19,21 +19,15 @@
 - 🎯 Passionate about ensuring software quality through detailed test planning and execution  
 - 🎮 Fun fact: I enjoy exploring new testing tools and technologies in my free time!
 
-[![Resume](https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=red)](https://drive.google.com/file/d/1DC_1miuMX5B6rUb5svuEMN73JMHD03cB/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=red)](https:#)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Website-blue?style=flat&logo=googlechrome&logoColor=white)](https:#)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/md-abdur-rahaman-tutul-a13012210/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/abdurtutul6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="mailto:abdurtutul6@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
-  </a>
-</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/md-abdur-rahaman-tutul-a13012210/">LinkedIn</a></li>
+  <li><a href="https://www.facebook.com/share/1CYAzDX7M6/">Facebook</a></li>
+  <li><a href="mailto:abdurtutul6@gmail.com">abdurtutul6@gmail.com</a></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
