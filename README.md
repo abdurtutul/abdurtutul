@@ -23,11 +23,19 @@
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Website-blue?style=flat&logo=googlechrome&logoColor=white)](https:#)
 
 <h3 align="left">Connect with me:</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/in/md-abdur-rahaman-tutul-a13012210/">LinkedIn</a></li>
-  <li><a href="https://www.facebook.com/share/1CYAzDX7M6/">Facebook</a></li>
-  <li><a href="mailto:abdurtutul6@gmail.com">abdurtutul6@gmail.com</a></li>
-</ul>
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-abdur-rahaman-tutul-a13012210/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1CYAzDX7M6/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abdurtutul6@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -37,17 +45,24 @@
 </p>
 
 <h3 align="left">Stats Cards:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurtutul&show_icons=true&locale=en&layout=compact" alt="abdurtutul" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurtutul&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurtutul&show_icons=true&locale=en" alt="abdurtutul" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurtutul&show_icons=true&locale=en&theme=radical&cache_seconds=60" alt="GitHub Stats for abdurtutul" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurtutul&theme=radical" alt="GitHub Streak" />
+</p>
 
 <img align="right" alt="rocket" width="250" src="https://github.com/user-attachments/assets/73f5b44a-e251-4e54-ae86-dcd4fbecabbf">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurtutul&" alt="abdurtutul" /></p>
 
 <h3 align="left">Trophies & Badges:</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdurtutul&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdurtutul&theme=monokai" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=3000&pause=500&color=00A36C&background=000000&center=true&vCenter=true&width=500&lines=QA+Enthusiast+%F0%9F%A7%AA;Test+It+Till+You+Break+It+%F0%9F%92%BB;Automation+in+Progress..." alt="QA Typing Banner" />
