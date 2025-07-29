@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=480&lines=Hello+there+Explorer!+%F0%9F%91%8B;<+----This+is+Tutul----+>;🛠️+Debugging+Code......;🚀+Chasing+Quality+with+Tests;✅+Bug-Free+is+the+Goal!" alt="Typing SVG" />
 </h1>
 
-<img align="right" alt="Coder Pikachu" width="70" src="https://github.com/user-attachments/assets/13e7f021-6ef8-4cde-ac4b-c57e5de409a3">
+<img align="right" alt="Rokect" width="70" src="https://github.com/user-attachments/assets/6c44dd7b-a6fd-4748-b0fd-38db23b30498">
 
 <h4 align="center">You are welcome to explore my GitHub to check out projects, QA works, and tools I've used. I am passionate about Software Quality Assurance and continuously improving my skills.</h4><br>
 
