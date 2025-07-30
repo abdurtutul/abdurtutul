@@ -19,7 +19,7 @@
 - 🎯 Passionate about ensuring software quality through detailed test planning and execution  
 - 🎮 Fun fact: I enjoy exploring new testing tools and technologies in my free time!
 
-[![Resume](https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=red)](https:#)
+[![Resume](https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=red)](https://drive.google.com/file/d/1DC_1miuMX5B6rUb5svuEMN73JMHD03cB/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Website-blue?style=flat&logo=googlechrome&logoColor=white)](https:#)
 
 <h3 align="left">Connect with me:</h3>
